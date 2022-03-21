@@ -1,4 +1,4 @@
-<img src="https://github.com/adrianjost/Curriculum-Vitae/blob/master/src/static/avatar.svg" alt="Avatar of Adrian Jost" height="200" align="right">
+<img src="https://raw.githubusercontent.com/adrianjost/Curriculum-Vitae/79973103bac22355b068c6cfe32dedba83bfb48e/src/static/avatar.svg" alt="Avatar of Adrian Jost" height="200" align="right">
 
 ### Hi there 👋
 
